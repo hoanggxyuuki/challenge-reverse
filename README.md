@@ -1,4 +1,4 @@
-# README: Reverse Challenge
+# Reverse Challenge
 
 ## Introduction
 
